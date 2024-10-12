@@ -1,0 +1,31 @@
+.first-nav{
+    background-color: black;
+    color: #dadada;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+.nav-bar{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    
+}
+#a-underline{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+.a-tag{
+    margin-left: 140px;
+    position: absolute;
+}
+.search-icon{
+    position: relative;
+    margin-left: 1450px;
+    color: black;
+    font-size: 17px;
+}
